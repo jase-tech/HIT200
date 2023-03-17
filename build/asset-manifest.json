@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7BREPOSITORY_NAME%7D/static/css/main.afd22182.css",
+    "main.js": "/%7BREPOSITORY_NAME%7D/static/js/main.a03424c8.js",
+    "static/media/logo.svg": "/%7BREPOSITORY_NAME%7D/static/media/logo.bfb25d07b8ca101ff311ff4a51616e2a.svg",
+    "index.html": "/%7BREPOSITORY_NAME%7D/index.html",
+    "main.afd22182.css.map": "/%7BREPOSITORY_NAME%7D/static/css/main.afd22182.css.map",
+    "main.a03424c8.js.map": "/%7BREPOSITORY_NAME%7D/static/js/main.a03424c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd22182.css",
+    "static/js/main.a03424c8.js"
+  ]
+}
